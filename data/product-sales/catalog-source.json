@@ -1,0 +1,27 @@
+{
+  "CF-001": {
+    "vendor": "Roast Lab",
+    "name": "House Beans",
+    "size": "1 lb"
+  },
+  "CF-002": {
+    "vendor": "Roast Lab",
+    "name": "Cold Brew",
+    "size": "12 oz"
+  },
+  "CF-003": {
+    "vendor": "Roast Lab",
+    "name": "Filter Pack",
+    "size": "100 ct"
+  },
+  "CF-004": {
+    "vendor": "Roast Lab",
+    "name": "Travel Tumbler",
+    "size": "16 oz"
+  },
+  "CF-005": {
+    "vendor": "Roast Lab",
+    "name": "Sampler Box",
+    "size": "5 pack"
+  }
+}
